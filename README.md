@@ -115,13 +115,13 @@ The notebook generates multiple graphs and heatmaps such as:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/delhi-accident-prediction.git
+git clone https://github.com/Muskanyada/Crime_Prediction.git
 
 
 ### Step 2: Open the Project Folder
 
 ```bash
-cd delhi-accident-prediction
+cd Crime_Prediction
 ```
 
 ### Step 3: Install Required Libraries
