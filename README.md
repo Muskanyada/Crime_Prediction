@@ -140,7 +140,6 @@ crime_prediction.ipynb
 
 Run all cells in Jupyter Notebook or Google Colab.
 
----
 
 ## 📁 Project Structure
 
@@ -152,7 +151,7 @@ Run all cells in Jupyter Notebook or Google Colab.
 └── LICENSE
 ```
 
----
+
 
 ## 🎯 Future Improvements
 
@@ -164,7 +163,7 @@ Possible future enhancements:
 * Interactive dashboard visualization
 * Integration with live traffic datasets
 
----
+
 
 ## 📜 License
 
@@ -172,14 +171,4 @@ This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this project with proper attribution.
 
----
 
-## 👩‍💻 Author
-
-Developed as a Machine Learning and Data Analysis project using the Delhi Accident Dataset.
-
----
-
-## ⭐ Acknowledgement
-
-Thanks to open-source Python libraries and publicly available datasets that made this project possible.
